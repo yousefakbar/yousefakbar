@@ -1,4 +1,23 @@
-### Hi there 👋
+<h2 align="center">✨Welcome✨</h2>
+
+<p align="center">
+	<a href= "https://github.com/yousefakbar/ ">
+		<img src="https://img.icons8.com/clouds/75/000000/github.png"/>
+	</a>
+	<a href= "https://yousef.sh ">
+		<img src="https://img.icons8.com/clouds/75/000000/domain.png"/>
+	</a>
+	<a href= "https://linkedin.com/in/yhakbar ">
+		<img src="https://img.icons8.com/clouds/75/000000/linkedin.png"/>
+	</a>
+	<a href= "https://yousef.sh/resume.pdf ">
+		<img src="https://img.icons8.com/clouds/75/000000/cloud-file.png"/>
+	</a>
+</p>
+
+<p align="center">
+Take a look around my profile and <b>star</b>🌟 anything you think is cool.
+</p>
 
 <!--
 **yousefakbar/yousefakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
