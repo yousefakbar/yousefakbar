@@ -10,7 +10,7 @@
 	<a href= "https://linkedin.com/in/yhakbar ">
 		<img src="https://img.icons8.com/clouds/75/000000/linkedin.png"/>
 	</a>
-	<a href= "https://yousef.sh/resume.pdf ">
+	<a href= "https://yousef.sh/files/resume.pdf ">
 		<img src="https://img.icons8.com/clouds/75/000000/cloud-file.png"/>
 	</a>
 </p>
