@@ -1,3 +1,4 @@
+<!--
 <h3 align="center">✨Welcome✨</h3>
 
 <p align="center">
@@ -18,6 +19,8 @@
 <p align="center">
 Take a look around my profile and <b>star</b>🌟 anything you think is cool.
 </p>
+-->
+
 
 <!--
 **yousefakbar/yousefakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
